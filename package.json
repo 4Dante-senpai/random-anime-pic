@@ -1,0 +1,28 @@
+{
+  "name": "random-anime-pic",
+  "version": "1.1.0",
+  "description": "Random anime pic from Danbooru",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4Dante-senpai/random-anime-pic.git"
+  },
+  "keywords": [
+    "javascrip",
+    "npm",
+    "anime"
+  ],
+  "author": "4Dante <demi.4d@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/4Dante-senpai/random-anime-pic/issues"
+  },
+  "homepage": "https://github.com/4Dante-senpai/random-anime-pic#readme",
+  "bin": {
+    "random-anime-pic": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
